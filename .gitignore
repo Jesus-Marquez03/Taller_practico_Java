@@ -1,0 +1,11 @@
+# Archivos generados por Maven y Java
+target/
+*.class
+
+# Archivos temporales de editores y del sistema
+.vscode/
+.tools/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
